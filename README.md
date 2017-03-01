@@ -1,5 +1,7 @@
 # Atom Mocha Test Runner
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/atom-jasmine2-test-runner.svg)](https://greenkeeper.io/)
+
 By default, Atom runs your tests with Jasmine (for more information on testing packages in Atom, please [see the Atom Flight Manual](http://flight-manual.atom.io/hacking-atom/sections/writing-specs/#running-specs)). Atom allows you to specify a custom test runner using the `atomTestRunner` field in your `package.json`, but implementing a custom test runner is not straightforward. This module allows you to run your specs using Mocha with minimal fuss.
 
 ## Installation
